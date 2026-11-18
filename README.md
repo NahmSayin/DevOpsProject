@@ -1,5 +1,3 @@
-# NahomAshaProject
-
 A minimal Flask web app for learning DevOps step by step.
 
 ## Setup
